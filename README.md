@@ -1,4 +1,4 @@
-# Chapter 3: Strings (Python)
+# Chapter 1: Strings (Python)
 
 ## Problems Solved:
 1. Reverse String
