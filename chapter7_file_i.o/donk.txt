@@ -1,0 +1,4 @@
+###### is an animal
+###### is of grey colour
+###### does not speak
+###### is not bad
