@@ -1,44 +1,34 @@
-# Number Guessing Game 🎯
+# Project 2: Python Mini Games 🎮
 
-A simple Number Guessing Game built using Python.
+A collection of simple Python mini programs created to practice the `random` module, user input, and basic programming logic.
 
-The computer randomly selects a number between 1 and 10, and the player tries to guess the correct number.
+## Programs
 
-## How to Play
+### 1. Number Guessing Game 🎯
 
-1. Run the Python program.
-2. Enter a number between 1 and 10.
-3. The computer compares your guess with the randomly generated number.
-4. If your guess is correct, you win.
-5. Otherwise, the correct number is displayed.
+The computer randomly selects a number between 1 and 10, and the player tries to guess it.
 
-## Concepts Used
-
-- Python `random` module
+**Concepts Used:**
 - `random.randint()`
 - User input
 - Conditional statements
 - Variables
-- Type conversion using `int()`
 
-## Run the Program
+### 2. Random Dice 🎲
 
-```bash
-python number_guessing.py
-```
+Simulates rolling a dice by randomly generating a number between 1 and 6.
 
-## Example
-
-```text
-Guess a number between 1 and 10: 7
-Correct! You won.
-```
+**Concepts Used:**
+- Python `random` module
+- `random.randint()`
+- Variables
 
 ## Project Structure
 
 ```text
 project2/
 ├── number_guessing.py
+├── random_dice.py
 └── README.md
 ```
 
