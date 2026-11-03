@@ -35,3 +35,6 @@ The computer randomly selects its choice, and the program determines the winner.
 
 ```bash
 python snake_water_gun.py
+## Status
+
+✅ **Completed**
