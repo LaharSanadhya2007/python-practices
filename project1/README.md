@@ -37,4 +37,4 @@ The computer randomly selects its choice, and the program determines the winner.
 python snake_water_gun.py
 ## Status
 
-✅ **Completed**
+✅ **Completed successfully**
