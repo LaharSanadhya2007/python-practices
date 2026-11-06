@@ -27,4 +27,4 @@ This chapter covers working with files in Python through practical programs invo
 
 Practiced reading, writing, searching, modifying, and updating text files using Python File I/O.
 
-**Status :** In Progress
+**Status : ** In Progress
