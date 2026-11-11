@@ -1,5 +1,5 @@
 import random
-your_choice=input("enter your choice: ")
+your_choice=input("enter your game choice: ")
 computer_choice=random.choice([1,-1,0])
 your_dic={"s":1,"w":-1,"g":0}
 rev_dic={1:"snake",-1:"water",0:"gun"}
