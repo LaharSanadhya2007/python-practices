@@ -29,4 +29,4 @@ This chapter covers Python functions and recursion through practical programming
 
 Practiced creating reusable functions and learned how recursive functions solve problems by breaking them into smaller subproblems until a base condition is reached.
 
-**Status:** Completed successfully
+**Status:** Completed
